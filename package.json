@@ -1,0 +1,23 @@
+{
+  "name": "BMI Calculator unit test",
+  "version": "1.0.0",
+  "description": "Unit testing using jest",
+  "main": "Home Assignment. Conditionals and Loops.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xleexlee456/My-Refocus-Assignments..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xleexlee456/My-Refocus-Assignments./issues"
+  },
+  "homepage": "https://github.com/xleexlee456/My-Refocus-Assignments.#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
